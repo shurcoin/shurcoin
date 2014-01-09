@@ -10,6 +10,7 @@ src/test_litecoin
 *.o
 *.patch
 .litecoin
+.idea
 
 # Compilation and Qt preprocessor part
 *.qm
