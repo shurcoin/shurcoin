@@ -107,7 +107,7 @@ repackage gitian builds for release as stand-alone zip/tar/installer exe
 
 * create SHA256SUMS for builds, and PGP-sign it
 
-* update shurcoin.org version
+* update shurcoin.com version
   make sure all OS download links go to the right versions
 
 * update forum version
